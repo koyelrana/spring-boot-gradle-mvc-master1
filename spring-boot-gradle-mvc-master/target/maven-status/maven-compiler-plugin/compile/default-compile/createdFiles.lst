@@ -1,0 +1,6 @@
+com\ekiras\controller\PersonController.class
+com\ekiras\repository\PersonRepository.class
+com\ekiras\Application.class
+com\ekiras\domain\Person.class
+com\ekiras\dao\PersonDAO.class
+com\ekiras\service\PersonService.class
